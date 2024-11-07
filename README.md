@@ -1,5 +1,5 @@
 # Readme
-A note about Greenwich Mean Time.
+A note about Greenwich Mean Time and Coordinated Universal Time.
 
 ### Credits
-- [Greenwich Mean Time - Wikipedia](https://en.wikipedia.org/wiki/Greenwich_Mean_Time)
+- [GMT and UTC - Federation of the Swiss watch industry](https://www.fhs.swiss/eng/gmt-utc-tai.html)
